@@ -1,0 +1,5 @@
+customtkinter>=6.0.0
+Pillow>=10.0.0
+certifi>=2024.0.0
+# Optional: Google Gemini AI API integration
+google-generativeai>=0.3.0
