@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Local databases and results
+*.db
+*.sqlite
+*.sqlite3
+
+# Environments and dependencies
+venv/
+env/
+ENV/
+.venv/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
